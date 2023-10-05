@@ -1,1 +1,6 @@
 #primer comentario
+<<<<<<< HEAD
+  Hola cómo estás
+  =======
+  hola que tal
+  >>>>>>> nuevo
